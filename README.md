@@ -18,6 +18,11 @@ English/[简体中文](https://github.com/deepseek-ai/awesome-deepseek-integrati
 
 <table>
     <tr>
+        <td><img src="https://www.python-xp.com/static/img/logo.svg?v=1.3"></td>
+        <td><a href="https://python-xp.com">Yuanbian Lab</a></td>
+        <td>Yuanbian Lab is a learning platform for advanced Python programming. We empower learners with state-of-the-art AI support, including ChatGPT and DeepSeek, ensuring that the learning experience is intelligent and smooth. In addition to providing AI conversational tutor services, AI is also used to help learners establish their own learning paths and improve their learning weaknesses</td>
+    </tr>
+    <tr>
         <td><img src="https://chatdoc.com/chatdoc/chatdoc.webp" alt="Icon" width="64" height="auto" /></td>
         <td><a href="https://chatdoc.com">ChatDOC</a></td>
         <td>ChatDOC is an AI-powered document reading tool equipped with robust traceability features, ensuring that the source of every piece of information is clear and verifiable, helping you efficiently and accurately grasp the core of your documents.</td>
